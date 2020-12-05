@@ -13192,13 +13192,13 @@ header-style-seven .nav-toggler:hover{
 }
 
 
+.form-control{
+border: 0px solid #ced4da;
+}
 
-
-
-
-
-
-
+.form-control:focus{
+	box-shadow: none;
+}
 
 
 
